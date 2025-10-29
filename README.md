@@ -21,3 +21,8 @@ We use [Unity v5.4.1f1](https://archive.org/details/unity-xbox-360-5.4.1f-1), to
 
 ### 0% of the project is done. (❌❌❌❌❌❌❌❌❌❌)
 ### 10% means one ✅
+
+# How to help?
+
+Try to fix and rip the project using [AssetRipper](https://github.com/AssetRipper/AssetRipper).
+### THE VERSION WE ARE RIPPING IS 1.0.a (RELEASE OF THE GAME) or 1.1.a .
